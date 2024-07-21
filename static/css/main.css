@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #5c0099, #3dad75);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: #fff;
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 0.5em;
+    color: #2ccd75;
+}
+
+#video_feed_container {
+    justify-content: center; 
+    display: flex; 
+    align-items: center;
+}
+
+#video_feed{
+    justify-content: center;
+    align-items: center;
+}
